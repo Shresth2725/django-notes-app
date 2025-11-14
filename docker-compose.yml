@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : shresth2725/my-note-app:latest
+     image: shresth2725/notes-app:latest
      ports :
          - "8000:8000"
